@@ -15,9 +15,7 @@
     </body>
 </html>
 
-}
 
-@keyframes heart{
     80%{
         transform: rotate(-45deg) scale(1.0);
     }
@@ -27,9 +25,6 @@
     }
 }
 
-
-
-@keyframes h1 {
 
 
     50%{
