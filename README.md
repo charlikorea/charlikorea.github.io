@@ -14,16 +14,6 @@
 
     </body>
 </html>
-body{
-    margin: 0;
-    padding: 0;
-    min-height: 100vh;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background: #0b1522;
-}
-
 .heart{
     height: 70px;
     width: 70px;
