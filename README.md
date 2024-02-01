@@ -11,28 +11,5 @@
 
 
 
-    </body>
-</html>
-
-
-    80%{
-        transform: rotate(-45deg) scale(1.0);
-    }
-
-    100%{
-        transform: rotate(-45deg) scale( 0.8);
-    }
-
-
-
-
-    50%{
-        transform: scale(1.3);
-    }
-
-
-    100%{
-        transform: scale(0.7);
-    }
-
+    </body></html>
 
