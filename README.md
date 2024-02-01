@@ -14,13 +14,7 @@
 
     </body>
 </html>
-.heart{
-    height: 70px;
-    width: 70px;
-    background: #f20044;
-    transform:rotate(-45deg) ;
-    box-shadow: -10px 10px 90px #f20044;
-    animation: heart 0.6s linear infinite;
+
 }
 
 @keyframes heart{
@@ -37,28 +31,7 @@
 }
 
 
-.heart::before{
-    content: "";
-    position: absolute;
-    height: 70px;
-    width: 70px;
-    background: #f20044;
-    top: -50%;
-    border-radius: 50px;
-    box-shadow: -10px -10px 90px #f20044;
-}
 
-
-.heart::after{
-    content: "";
-    position: absolute;
-    height: 70px;
-    width: 70px;
-    background: #f20044;
-    right: -50%;
-    border-radius: 50px;
-    box-shadow: -10px -10px 90px #f20044;
-}
 h1{
     color: aliceblue;
     text-align: center;
