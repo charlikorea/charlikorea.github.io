@@ -32,19 +32,6 @@
 
 
 
-h1{
-    color: aliceblue;
-    text-align: center;
-    font-family: 'Times New Roman', Times, serif;
-    position: relative;
-    vertical-align: bottom;
-    bottom: -100px;
-    right: 100px;
-    font-style: oblique;
-    animation: h1 3s linear infinite
-}
-
-
 @keyframes h1 { 
     0%{
         transform: scale(1.1);
