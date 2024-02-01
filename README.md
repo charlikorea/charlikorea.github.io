@@ -2,7 +2,6 @@
 <html lang="es">
     <head>
         <link rel="stylesheet" type="text/css" href="meperdonas.css">
-        <title>I love you amor</title>
     </head>
     <body>
 
@@ -23,7 +22,7 @@
     100%{
         transform: rotate(-45deg) scale( 0.8);
     }
-}
+
 
 
 
@@ -35,5 +34,5 @@
     100%{
         transform: scale(0.7);
     }
-}
+
 
