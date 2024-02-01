@@ -18,9 +18,6 @@
 }
 
 @keyframes heart{
-    0%{
-        transform: rotate(-45deg) scale(1.07)
-    }
     80%{
         transform: rotate(-45deg) scale(1.0);
     }
@@ -32,10 +29,7 @@
 
 
 
-@keyframes h1 { 
-    0%{
-        transform: scale(1.1);
-    }
+@keyframes h1 {
 
 
     50%{
